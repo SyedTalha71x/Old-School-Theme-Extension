@@ -1,0 +1,21 @@
+{
+  "name": "old-school",
+  "displayName": "Old-School",
+  "description": "Step back in time with the Old-School theme, where nostalgia meets elegance. This thoughtfully crafted theme captures the essence of classic design, blending retro color palettes with modern functionality. Immerse yourself in a workspace that evokes memories of simpler times, with soothing tones that enhance focus and creativity.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Old School",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Old School-color-theme.json"
+      }
+    ]
+  }
+}

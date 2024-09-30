@@ -1,0 +1,32 @@
+{
+	"name": "Old-School",
+	"type": "dark",
+	"colors": {
+	  "editor.background": "#282C34",
+	  "editor.foreground": "#ABB2BF",
+	  "editor.selectionBackground": "#3E4451",
+	  "editor.lineHighlightBackground": "#2C313A",
+	  "editorCursor.foreground": "#528BFF"
+	},
+	"tokenColors": [
+	  {
+		"scope": "comment",
+		"settings": {
+		  "foreground": "#5C6370"
+		}
+	  },
+	  {
+		"scope": "keyword",
+		"settings": {
+		  "foreground": "#C678DD"
+		}
+	  },
+	  {
+		"scope": "variable",
+		"settings": {
+		  "foreground": "#E06C75"
+		}
+	  }
+	]
+  }
+  
