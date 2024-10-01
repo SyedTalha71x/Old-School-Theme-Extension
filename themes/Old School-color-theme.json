@@ -2,29 +2,71 @@
 	"name": "Old-School",
 	"type": "dark",
 	"colors": {
-	  "editor.background": "#282C34",
-	  "editor.foreground": "#ABB2BF",
-	  "editor.selectionBackground": "#3E4451",
-	  "editor.lineHighlightBackground": "#2C313A",
+	  "editor.background": "#12151b",
+	  "editor.foreground": "#8d939e",
+	  "editor.selectionBackground": "#21252c",
+	  "editor.lineHighlightBackground": "#1a1d21",
 	  "editorCursor.foreground": "#528BFF"
 	},
 	"tokenColors": [
 	  {
 		"scope": "comment",
 		"settings": {
-		  "foreground": "#5C6370"
+		  "foreground": "#ec0a1d"
 		}
 	  },
 	  {
 		"scope": "keyword",
 		"settings": {
-		  "foreground": "#C678DD"
+		  "foreground": "#9ef90b"
 		}
 	  },
 	  {
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#E06C75"
+		  "foreground": "#0946df"
+		}
+	  },
+	  {
+		"scope": "string",
+		"settings": {
+		  "foreground": "#98C379"
+		}
+	  },
+	  {
+		"scope": "function",
+		"settings": {
+		  "foreground": "#6d6dcb"
+		}
+	  },
+	  {
+		"scope": "type",
+		"settings": {
+		  "foreground": "#E5C07B"
+		}
+	  },
+	  {
+		"scope": "constant",
+		"settings": {
+		  "foreground": "#D19A66"
+		}
+	  },
+	  {
+		"scope": "class",
+		"settings": {
+		  "foreground": "#748bf0"
+		}
+	  },
+	  {
+		"scope": "method",
+		"settings": {
+		  "foreground": "#61AFEF"
+		}
+	  },
+	  {
+		"scope": "parameter",
+		"settings": {
+		  "foreground": "#56B6C2"
 		}
 	  }
 	]
